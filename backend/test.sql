@@ -40,8 +40,8 @@ CREATE TABLE `books` (
 --
 
 INSERT INTO `books` (`id`, `title`, `desc`, `price`, `cover`) VALUES
-(1, 'Gamer of throne', 'this is an amazing book to read when you are free ', 2343.2, 'https://images.unsplash.com/photo-1541963463532-d68292c34b19?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxleHBsb3JlLWZlZWR8Mnx8fGVufDB8fHx8&auto=format&fit=crop&w=500&q=60'),
-(2, 'Fire folks', 'fire folks is ming blowing book to read it will blow your mind', 2342.3, 'https://images.unsplash.com/photo-1543002588-bfa74002ed7e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80');
+(1, 'The Magic of Lost Temple', 'this is an amazing book to read when you are free ', 200, 'https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.bookgeeks.in%2Fsudha-murty-books-list%2F&psig=AOvVaw3LvVZ8dADG8LU5ZuFSZaLB&ust=1740982175611000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKD-3J7e6osDFQAAAAAdAAAAABAE'),
+(2, 'Half Girl Friend', 'A Chetan Bhagat Book', 300, 'https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.amazon.in%2FHalf-Girlfriend-Revolution-Twenty-Corruption%2Fdp%2FB0866GRX5T&psig=AOvVaw3ThX7M0AwsaSHRnTpUZCAJ&ust=1740982339772000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMj_lefe6osDFQAAAAAdAAAAABAE');
 
 --
 -- Indexes for dumped tables
